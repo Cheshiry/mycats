@@ -18,8 +18,16 @@
 *{
     margin: 0%;
     padding: 0%;
+}
+body{
     font-family: var(--font);
     background-color: var(--third-color);
     color: var(--color-font);
+    box-sizing: border-box;
+    padding: 10%;
+}
+.nav__menu{
+    text-decoration: none;
+    padding: 5%;
 }
 
