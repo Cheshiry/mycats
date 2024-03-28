@@ -31,13 +31,14 @@
 .nav__menu, .nav__menu__login{
     text-decoration: none;
     padding: 5%;
-    flex-direction: row;
+    display: flex;
 }
 .content{
    /* align-items: center;
     justify-content: space-between;
-    gap: 82px;*/
+    gap:*/
     width:50%;
+
 }
 
 footer{
