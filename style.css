@@ -34,9 +34,9 @@
     flex-direction: row;
 }
 .content{
-    align-items: center;
+   /* align-items: center;
     justify-content: space-between;
-    gap: 82px;
+    gap: 82px;*/
     width:50%;
 }
 
