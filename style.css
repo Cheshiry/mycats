@@ -29,7 +29,8 @@ body{
     width: auto;
 }
 .container{
-    display: inline-flex;
+    display: flex;
+    flex-direction: row;
 }
 .nav__menu, .nav__menu__login{
     text-decoration: none;
@@ -52,6 +53,6 @@ footer{
         width: 100%;
         padding: 0;
         margin: 0;
-        flex-direction: row;
+        flex-direction: flex;
 }
 
