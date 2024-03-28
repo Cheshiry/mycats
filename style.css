@@ -19,16 +19,17 @@
     margin: 0%;
     padding: 0%;
 }
-.container{
+body{
     font-family: var(--font);
     background-color: var(--third-color);
     color: var(--color-font);
     box-sizing: border-box;
     padding: 10%;
-    display: inline-flex;
     height: auto;
     width: auto;
-    
+}
+.container{
+    display: inline-flex;
 }
 .nav__menu, .nav__menu__login{
     text-decoration: none;
