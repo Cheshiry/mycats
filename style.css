@@ -37,3 +37,13 @@ body{
     gap: 82px;
 }
 
+footer{
+        color: var(--cor-primaria);
+        background-color: var(--background);
+        padding: 24px;
+        text-align: center;
+        font-family: var(--font)
+        font-size: 1.5rem;
+        font-weight: 400;
+}
+
