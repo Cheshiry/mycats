@@ -34,16 +34,10 @@ body{
 }*/
 .nav__menu, .nav__menu__login{
     text-decoration: none;
-    padding: 5%;
+    padding: 10%;
     display: flex;
     gap: 50px;
 }
-body{
-    width:50%;
-    display: flex;
-    
-}
-*/
 footer{
         color: var(--cor-primaria);
         background-color: var(--background);
