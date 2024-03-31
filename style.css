@@ -32,7 +32,7 @@ body{
     display: flex;
     flex-direction: row;
 }*/
-.nav__menu, .nav__menu__login{
+.nav__menu{
     text-decoration: none;
     padding: 10%;
     display: flex;
