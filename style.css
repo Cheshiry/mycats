@@ -19,7 +19,7 @@
     margin: 0%;
     padding: 0%;
 }
-/*.container{
+.container{
     font-family: var(--font);
     background-color: var(--third-color);
     color: var(--color-font);
@@ -35,7 +35,7 @@
     padding: 5%;
     display: flex;
     gap: 50px;
-}*/
+}
 body{
     width:50%;
     display: flex;
