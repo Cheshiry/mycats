@@ -36,7 +36,7 @@ body{
     text-decoration: none;
     padding: 1%;
     display: column;
-    gap: 1rem;
+    gap: 2rem;
 }
 footer{
         color: var(--cor-primaria);
