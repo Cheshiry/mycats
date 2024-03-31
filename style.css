@@ -28,7 +28,7 @@ body{
     height: auto;
     width: auto;
 }
-.container{
+/*.container{
     display: flex;
     flex-direction: row;
 }
@@ -37,7 +37,7 @@ body{
     padding: 5%;
     display: flex;
     gap: 50px;
-}
+}*/
 body{
     width:50%;
     display: flex;
