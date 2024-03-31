@@ -24,8 +24,8 @@ body{
     background-color: var(--third-color);
     color: var(--color-font);
     box-sizing: border-box;
-    height: 100vh;
-    /*padding: 10%;
+    /*height: 100vh;
+    padding: 10%; 
     width: 100vh;*/
 }
 /*.container{
