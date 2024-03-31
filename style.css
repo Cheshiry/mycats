@@ -34,7 +34,7 @@ body{
 }*/
 .nav__menu{
     text-decoration: none;
-    padding: 10%;
+    padding: 1%;
     display: flex;
     gap: 50px;
 }
