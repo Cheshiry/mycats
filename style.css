@@ -38,7 +38,7 @@ body{
 }
 .nav__menu{
     text-decoration: none;
-    gap: 4rem;
+    row-gap: 4rem;
     display: column;
 }
 footer{
