@@ -24,6 +24,7 @@ body{
     background-color: var(--third-color);
     color: var(--color-font);
     box-sizing: border-box;
+    padding-top: 1.5rem;
     /*height: 100vh;
     padding: 10%; 
     width: 100vh;*/
@@ -35,7 +36,6 @@ body{
 .nav__menu{
     text-decoration: none;
     padding: 10%;
-    padding-bottom: 15%;
     display: column;
 }
 footer{
