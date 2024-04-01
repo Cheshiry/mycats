@@ -35,9 +35,15 @@ body{
     flex-direction: row;
     padding: 2rem;
 }
+
+.menu__icon{
+    display: flex;
+    display-direction: row;
+}
 .nav__menu{
     text-decoration: none;
-    display: column;
+    gap: 30px;
+   /* display: column;*/
 
 }
 footer{
