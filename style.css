@@ -35,8 +35,8 @@ body{
 .nav__menu{
     text-decoration: none;
     padding: 10%;
+    padding-bottom: 15%;
     display: column;
-    row-gap: 60%;
 }
 footer{
         color: var(--cor-primaria);
