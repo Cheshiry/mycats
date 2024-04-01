@@ -33,6 +33,7 @@ body{
 .container{
     display: flex;
     flex-direction: row;
+    padding: 6rem;
 }
 .nav__menu{
     text-decoration: none;
