@@ -38,8 +38,8 @@ body{
 }
 .nav__menu{
     text-decoration: none;
-    row-gap: 4rem;
     display: column;
+    
 }
 footer{
         color: var(--cor-primaria);
