@@ -25,6 +25,7 @@ body{
     color: var(--color-font);
     box-sizing: border-box;
     padding: 1.5rem;
+    row-gap: 80px;
     /*height: 100vh;
     padding: 10%; 
     width: 100vh;*/
