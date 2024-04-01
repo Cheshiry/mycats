@@ -50,5 +50,6 @@ footer{
         width: 100%;
         display: flex;
         padding: 1.5rem;
+        margin-left: 0;
 }
 
