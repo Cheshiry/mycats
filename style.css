@@ -38,7 +38,7 @@ body{
 
 .menu__icon{
     display: flex;
-    display-direction: row;
+    flex-direction: row;
 }
 .nav__menu{
     text-decoration: none;
