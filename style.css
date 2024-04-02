@@ -41,8 +41,9 @@ body{
     flex-direction: row;
 }
 .nav__menu{
+
     text-decoration: none;
-    gap: 30px;
+    row-gap: 730px;
    /* display: column;*/
 
 }
