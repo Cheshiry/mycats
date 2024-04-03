@@ -32,13 +32,10 @@ body{
 }
 .menu__icon{
     display: flex;
-    flex-direction: row;
     gap: 2rem;
-    display: flex;
-    flex-direction: row;
+    align-items: center;
 }
 .nav__menu{
-    display: flex;
     text-decoration: none;
 }
 
