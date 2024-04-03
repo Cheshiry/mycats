@@ -32,8 +32,8 @@ body{
 }
 .menu__icon{
     display: flex;
-    gap: 2rem;
-    align-items: center;
+    gap: 10%;
+    flex-direction: row;
 }
 .nav__menu{
     text-decoration: none;
