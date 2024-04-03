@@ -30,23 +30,18 @@ body{
     padding: 10%; 
     width: 100vh;*/
 }
-.container{
+.menu__icon{
     display: flex;
     flex-direction: row;
-    padding: 2rem;
-}
-
-.menu__icon{
+    gap: 2rem;
     display: flex;
     flex-direction: row;
 }
 .nav__menu{
     display: flex;
     text-decoration: none;
-    row-gap: 730px;
-   /* display: column;*/
-
 }
+
 footer{
         color: var(--cor-primaria);
         background-color: var(--background);
