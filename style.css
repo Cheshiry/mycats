@@ -38,8 +38,15 @@ body{
 .nav__menu__home{
     text-decoration: none;
 }
+.nav__menu__who{
 
+}
+.nav__menu__about{
 
+}
+.nav__menu__login{
+    
+}
 
 footer{
         color: var(--cor-primaria);
