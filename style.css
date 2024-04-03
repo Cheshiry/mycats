@@ -35,9 +35,11 @@ body{
     gap: 10%;
     flex-direction: row;
 }
-.nav__menu{
+.nav__menu__home{
     text-decoration: none;
 }
+
+
 
 footer{
         color: var(--cor-primaria);
