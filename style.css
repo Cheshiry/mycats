@@ -37,7 +37,7 @@ body{
     flex-direction: row;
 }
 .nav__menu__home{
-    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .nav__menu__who{
 
