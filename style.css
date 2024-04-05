@@ -18,6 +18,7 @@
 *{
     margin: 0%;
     padding: 0%;
+    text-decoration: none;
 }
 body{
     font-family: var(--font);
@@ -30,13 +31,13 @@ body{
     padding: 10%; 
     width: 100vh;*/
 }
-.menu__icon{
+.menu__icons{
     display: flex;
     gap: 10%;
     flex-direction: row;
 }
 .nav__menu__home{
-    text-decoration: none;
+    
 }
 .nav__menu__who{
 
