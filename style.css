@@ -5,8 +5,8 @@
 :root{
     --background: #000;
     --color-font: #fff;
-    --first-color: #f5096f;
-    --second-color:#09fb30;
+    --first-color: #00cccc;
+    --second-color:#009999;
     --third-color: #089;
 
     --font:font-family: "Reddit Mono", monospace,
