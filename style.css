@@ -39,25 +39,25 @@ body{
 .nav__menu__home{
     color: var(--first-color);
     font-family: var(--font);
-    font-weight: 900;
+    font-weight: 300;
     font-size: 1.5rem;
 }
 .nav__menu__who{
     color: var(--first-color);
     font-family: var(--font);
-    font-weight: 900;
+    font-weight: 300;
     font-size: 1.5rem;
 }
 .nav__menu__about{
     color: var(--first-color);
     font-family: var(--font);
-    font-weight: 900;
+    font-weight: 300;
     font-size: 1.5rem;
 }
 .nav__menu__login{
     color: var(--first-color);
     font-family: var(--font);
-    font-weight: 900;
+    font-weight: 300;
     font-size: 1.5rem;
 }
 
