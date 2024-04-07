@@ -57,7 +57,10 @@ body{
     font-size: 1.5rem;
 }
 
+.container{
 
+    padding: 5%;
+}
 
 footer{
         color: var(--cor-primaria);
