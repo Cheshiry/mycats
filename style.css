@@ -31,6 +31,7 @@ body{
     display: flex;
     gap: 10%;
     flex-direction: row;
+    justify-content: space-around;
 }
 .nav__menu__home{
     color: var(--first-color);
