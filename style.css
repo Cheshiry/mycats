@@ -34,6 +34,7 @@ body{
     gap: 10%;
     flex-direction: row;
     justify-content: space-around;
+    padding-top: 5%;
 }
 .nav__menu__home{
     color: var(--first-color);
@@ -64,6 +65,7 @@ body{
 
     padding: 5%;
     text-align: justify;
+    
 }
 
 footer{
