@@ -26,8 +26,7 @@ body{
     color: var(--color-font);
     box-sizing: border-box;
     height: 100vh;
-    width: 100vw;
-    
+    overflow: auto;    
 }
 .menu__icons{
     display: flex;
@@ -77,8 +76,7 @@ footer{
         padding: 1.5rem;
         margin: 0%;
         display: flex;
-        flex-shrink: 0;
         bottom: 0;
-        position: fixed;
+        position: sticky;
 }
 
