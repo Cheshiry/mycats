@@ -77,6 +77,6 @@ footer{
         margin: 0%;
         display: flex;
         bottom: 0;
-        position: sticky;
+        position: fixed;
 }
 
