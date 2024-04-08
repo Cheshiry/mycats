@@ -9,10 +9,6 @@
     --third-color: #089;
 
     --font:font-family: "Reddit Mono", monospace;
-   /* font-optical-sizing: auto,
-    font-style: normal,
-  ;
-    --text-font:;*/
 }
 *{
     margin: 0%;
@@ -77,5 +73,4 @@ footer{
         display: flex;
         bottom: 0;
         position: sticky;
-    overflow: hidden ;
 }
