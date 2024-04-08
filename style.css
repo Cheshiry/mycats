@@ -26,7 +26,7 @@ body{
     color: var(--color-font);
     box-sizing: border-box;
     height: 100vh;
-    overflow: hiden;    
+    overflow: auto; 
 }
 .menu__icons{
     display: flex;
