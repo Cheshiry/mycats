@@ -33,7 +33,7 @@ body{
     gap: 10%;
     flex-direction: row;
     justify-content: space-around;
-    padding: 5% 5% 5% 0%;
+    padding: 5% 5% 0% 5%;
 }
 .nav__menu__home{
     color: var(--first-color);
