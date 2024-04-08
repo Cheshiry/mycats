@@ -77,4 +77,5 @@ footer{
         display: flex;
         bottom: 0;
         position: sticky;
+    overflow: hidden ;
 }
