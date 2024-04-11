@@ -59,7 +59,7 @@ body{
 
     padding: 5%;
     text-align: justify;
-    
+    display:flex; 
 }
 
 footer{
@@ -71,6 +71,7 @@ footer{
         padding: 1.5rem;
         margin: 0%;
         display: flex;
+    
         bottom: 0;
         position: sticky;
 }
