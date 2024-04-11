@@ -61,7 +61,7 @@ body{
     padding: 5%;
     text-align: justify;
     display:flex; 
-    padding-bottom: 2.5rem;
+   /* padding-bottom: 2.5rem;*/
 }
 
 footer{
