@@ -22,7 +22,7 @@ body{
     box-sizing: border-box;
     overflow: hiden;    
     position: relative; 
-    min-height: 100vh;
+    height: 100vh;
 }
 .menu__icons{
     display: flex;
