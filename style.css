@@ -19,12 +19,10 @@ body{
     font-family: var(--font);
     background-color: var(--third-color);
     color: var(--color-font);
-    box-sizing: border-box;
-    overflow: hiden;    
+    /*box-sizing: border-box;
+    overflow: hiden;  */  
     position: relative; 
     height: 100vh;
-    margin: 0;
-    padding: 0;
 }
 .menu__icons{
     display: flex;
