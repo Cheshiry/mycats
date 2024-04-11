@@ -20,7 +20,6 @@ body{
     background-color: var(--third-color);
     color: var(--color-font);
     box-sizing: border-box;
-    height: 100vh;
     overflow: hiden;    
     position: relative; 
     min-height: 100vh;
@@ -62,7 +61,7 @@ body{
     padding: 5%;
     text-align: justify;
     display:flex; 
-    padding-bottom: 2.5rem;
+    /*padding-bottom: 2.5rem;*/
 }
 
 footer{
