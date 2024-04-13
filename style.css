@@ -19,8 +19,8 @@ body{
     font-family: var(--font);
     background-color: var(--third-color);
     color: var(--color-font);
-    /*box-sizing: border-box;
-    overflow: hiden;  */  
+    box-sizing: border-box;
+    overflow: hiden;  
     position: relative; 
     height: 100vh;
 }
@@ -61,7 +61,7 @@ body{
     text-align: justify;
     display:flex; 
     justify-content: space-around;
-    /*padding-bottom: 2.5rem;*/
+    padding-bottom: 2.5rem;
     padding: 1rem;
 }
 
