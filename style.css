@@ -60,6 +60,7 @@ body{
 
     text-align: justify;
     display:flex; 
+    justify-content: space-around;
     /*padding-bottom: 2.5rem;*/
 }
 
