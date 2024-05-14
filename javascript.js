@@ -1,2 +1,2 @@
 //02
-windows.alert('hi');
+window.alert('hi');
