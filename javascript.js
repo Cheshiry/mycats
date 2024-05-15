@@ -10,3 +10,8 @@
 
 var nome = window.prompt(' Qual o seu nome?');
 window.alert('Seja bem-vindo'+' '+nome);
+
+var n1 = window.prompt('Digite um número:');
+var n2 = window.prompt('Digite um número:');
+
+document.getElementById()
